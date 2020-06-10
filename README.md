@@ -21,7 +21,7 @@ java 大作业
    本大作业课题中需要的时间及日期数据直接从运行该程序的机器上获取，不需要联网
    获取时间。  
 
-![img](./screenshots/主界面.png)
+![img](./alarm-clock/screenshots/主界面.png)
 
 ## rock-paper-scissors 猜拳
 
